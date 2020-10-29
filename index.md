@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+# 一步一脚印
 
-You can use the [editor on GitHub](https://github.com/DannyQone/index/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 从0开始
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Github 学习网站
+[https://blog.csdn.net/zaishuiyifangxym/category_9991200.html]
+![https://cn.bing.com/images/search?view=detailV2&ccid=%2b9G%2fQkVh&id=19A69CCBBFA682924EBA6A21ADEC2010E148BCF1&thid=OIP.-9G_QkVhEQ6PudLzOttvVgHaEb&mediaurl=https%3a%2f%2fuploadfile.bizhizu.cn%2f2015%2f0309%2f20150309051252770.jpg.source.jpg&exph=681&expw=1138&q=%e5%8a%aa%e5%8a%9b%e5%a5%8b%e6%96%97%e5%8a%b1%e5%bf%97%e5%9b%be%e7%89%87&simid=608041681568465739&ck=082BDF51652F9F432250DE2AF079EF32&selectedIndex=0&FORM=IRPRST&ajaxhist=0]
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DannyQone/index/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+好吃不过饺子的上一句！
